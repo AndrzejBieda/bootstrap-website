@@ -1,0 +1,153 @@
+html
+{
+  scroll-behavior: smooth;
+}
+
+body
+{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+}
+
+#mainNav
+{
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  font-weight: 700;
+  background: #2C3E50;
+}
+
+#mainNav .navbar-brand
+{
+	font-size: 28px;
+}
+
+#mainNav a
+{
+	font-size: 22px;
+	color: #fff;
+}
+
+#mainNav a:hover
+{
+	color: #eaeaea;
+}
+
+header
+{
+	padding-top: 9rem;
+	padding-bottom: 5rem;
+	background-color: #18BC9C;
+}
+
+#gwiazda
+{
+	max-height: 256px;
+}
+
+h1
+{
+	font-size: 60px;
+	font-weight: 600;
+	color: #fff;
+	margin: 20px;
+}
+
+h2
+{
+	font-size: 50px;
+	font-weight: 600;
+	color: #2C3E50;
+	margin: 20px;
+	text-align: center;
+}
+
+h4
+{
+	font-size: 30px;
+	font-weight: 600;
+	color: #fff;
+	margin: 20px;
+}
+	
+#gwiazda
+{
+	max-width: 256px !important;
+}
+
+#portfolio
+{
+	padding-top: 4rem;
+	padding-bottom: 4rem;
+	text-align: center;
+}
+
+#portfolio img
+{
+	width: 100%;
+	height: auto;
+}
+
+#portfolio p
+{
+	margin-bottom: 30px;
+}
+
+#portfolio figcaption
+{
+	margin-top: 8px;
+	color: #2C3E50;
+}
+
+#o_mnie
+{
+	padding-top: 4rem;
+	padding-bottom: 4rem;
+	background-color: #18BC9C;
+	color: #fff;
+	font-size: 20px;
+}
+
+#o_mnie h2
+{
+	color: #fff;
+}
+
+#oferta
+{
+	padding-top: 4rem;
+	padding-bottom: 4rem;
+	color: #2C3E50;
+	font-size: 20px;
+}
+
+#kontakt
+{
+	padding-top: 3rem;
+	padding-bottom: 4rem;
+	background-color: #18BC9C;
+	color: #fff;
+	font-size: 20px;
+	text-align: center;
+}
+
+#kontakt p
+{
+	margin: 0px;
+}
+
+#kontakt img
+{
+	max-height: 50px;
+	max-width: 50px;
+}
+
+footer
+{
+	text-align: center;
+	color: #fff;
+	font-size: 12px;
+	background-color: #2C3E50;
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
